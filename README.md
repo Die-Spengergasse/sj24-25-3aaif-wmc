@@ -8,3 +8,4 @@ Willkommen zur Webprogrammierung!
 
 - stagen
 - commit
+- push

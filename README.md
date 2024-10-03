@@ -2,6 +2,11 @@
 
 Willkommen zur Webprogrammierung!
 
+HÜ:
+
+Website "über mich" mit semantic html und
+CSS laut Folie
+
 ## 2024-10-03
 
 - semantic html

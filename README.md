@@ -2,6 +2,14 @@
 
 Willkommen zur Webprogrammierung!
 
+## 2024-10-03
+
+- semantic html
+- folie css
+- tag attributes
+- classes
+- erste Website
+
 ## 2024-09-26
 
 - vscode workspaces
